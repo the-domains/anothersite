@@ -1,7 +1,7 @@
 name: anothersite
 favicon: null
-layout_spectrum: 0.3679540560115129
-typography_spectrum: 0.7170947783160955
+layout_spectrum: 0.50024
+typography_spectrum: 0.07127
 cta:
   domain: null
   bucket: null
